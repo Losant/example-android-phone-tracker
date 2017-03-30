@@ -1,4 +1,4 @@
-package io.getstructure.phonetracker;
+package io.losant.phonetracker;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

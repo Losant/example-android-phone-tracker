@@ -1,4 +1,4 @@
-package io.getstructure.phonetracker;
+package io.losant.phonetracker;
 
 import org.junit.Test;
 

@@ -5,7 +5,7 @@ android {
     buildToolsVersion "19.1.0"
 
     defaultConfig {
-        applicationId "io.getstructure.phonetracker"
+        applicationId "io.losant.phonetracker"
         minSdkVersion 21
         targetSdkVersion 23
         versionCode 1

@@ -1,4 +1,4 @@
-package io.getstructure.phonetracker;
+package io.losant.phonetracker;
 
 import android.app.Service;
 import android.content.Context;
@@ -121,7 +121,7 @@ public void onConnected(Bundle connectionHint) {
 
             // The API endpoint - /application/:appId/device/:deviceId
             URL url = new URL(
-                "https://api.getstructure.io/" +
+                "https://api.losant.com/" +
                 "applications/56919b1a9d206d0100c54152/" +
                 "devices/56919b3c9d206d0100c54153/state");
 
