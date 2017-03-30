@@ -63,7 +63,7 @@ public class LocationService extends Service implements
         NotificationCompat.Builder mBuilder =
             new NotificationCompat.Builder(this);
         mBuilder.setSmallIcon(android.R.drawable.ic_menu_mylocation);
-        mBuilder.setContentTitle("Structure Location Service");
+        mBuilder.setContentTitle("Losant Location Service");
         mBuilder.setContentText("Collecting location data");
 
         // Run the service in the foreground. This keeps the service
